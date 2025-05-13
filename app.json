@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "e-apps",
-    "slug": "e-apps",
+    "name": "EASYtizen Preview",
+    "slug": "e-appspreview",  
     "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/Municipal.png",
